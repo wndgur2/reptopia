@@ -1,3 +1,9 @@
+---
+date_started: 2020.12.15
+date_finished: 2021.04.01
+head_count: 1
+role: FE
+---
 ![reptopia](https://github.com/wndgur2/Reptopia/assets/65120311/99d587c1-d3cc-4c0f-9f2c-16905a4c73e0)
 
 
