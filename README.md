@@ -1,6 +1,5 @@
-> 추후 정리된 문서입니다.
-
 ![reptopia](https://github.com/wndgur2/Reptopia/assets/65120311/99d587c1-d3cc-4c0f-9f2c-16905a4c73e0)
+
 
 # REPTOPIA
 
